@@ -17,4 +17,4 @@ async def physicsNews(ctx):
 
 
 
-bot.run(f"MTAxOTczMzcxODE5NTI0NTE4Ng.Gx1jof.UjBEiwV3HpQg2ld_-PMjXRkRE_FNP1Yo3o9afM")
+bot.run(f"REPLACE_WITH_KEY")
